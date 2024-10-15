@@ -1,3 +1,8 @@
 [submodule "webpage_LED_slider"]
 	path = webpage_LED_slider
 	url = https://github.com/obushinL/ESP32-S3-projects.git
+
+[submodule "webpage_chart"]
+    path = webpage_chart
+    url = https://github.com/obushinL/ESP32-S3-projects.git
+
